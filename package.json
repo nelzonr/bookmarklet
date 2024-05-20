@@ -9,5 +9,8 @@
     "dev": "node --watch --no-warnings app.js"
   },
   "author": "Nelzon Rada <nelzonrada@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "uglify-js": "^3.17.4"
+  }
 }
